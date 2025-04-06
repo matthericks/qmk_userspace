@@ -10,6 +10,6 @@
         ["bastardkb/scylla", "vendor"],
         ["bastardkb/tbkmini", "vendor"],
         ["bastardkb/skeletyl", "vendor"],
-        ["bastardkb/skeletyl", "colemak-dh"]
+        ["bastardkb/skeletyl", "colemak"]
     ]
 }
